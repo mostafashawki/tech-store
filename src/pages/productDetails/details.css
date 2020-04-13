@@ -1,0 +1,30 @@
+.details {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 0px;
+  grid-auto-rows: min-content;
+}
+
+.details ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.details li {
+  padding: 5px;
+  margin: 5px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.details .imgContainer {
+  width: 250px;
+  /* height: 250px; */
+}
+
+.details img {
+  width: 90%;
+  /* height: 250px; */
+}

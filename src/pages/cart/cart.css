@@ -1,0 +1,44 @@
+.cart {
+  width: 50rem;
+  max-width: 90%;
+  margin: 2rem auto;
+}
+
+/* .cart p {
+  text-align: center;
+} */
+
+.cart ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cart li {
+  padding: 1rem;
+  margin: 1rem 0;
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#cartNav {
+  transition: 0.1s;
+}
+
+.order p {
+  text-align: left !important;
+}
+
+.order input[type="submit"],
+button {
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}

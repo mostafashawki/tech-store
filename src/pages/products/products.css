@@ -1,0 +1,45 @@
+/* start for main */
+main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-column-gap: 7px;
+  grid-row-gap: 7px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: transform 1s;
+  max-width: 280px;
+  margin: auto;
+  text-align: center;
+  /* font-family: arial; */
+}
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+.card img {
+  width: 70%;
+  height: 250px;
+}
+
+.card .price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card .description {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+}
+
+.card a {
+  color: black;
+  text-decoration: none;
+}
+
+.card a :hover {
+  opacity: 0.7;
+}

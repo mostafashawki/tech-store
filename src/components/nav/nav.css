@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Special+Elite&display=swap");
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* background-color: #333333; */
+}
+
+nav li {
+  float: right;
+}
+
+nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 3px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  opacity: 0.7;
+  /* background-color: #111111; */
+}
+
+.brand {
+  font-family: "Special Elite", cursive;
+  float: left;
+  font-size: 1.2rem;
+  font-weight: bolder;
+}
+
+/* @media screen and (max-width: 480px) {
+  li {
+    display: inline-block;
+    color: red;
+  }
+} */

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p1",
+    "title": "iPhone 11 64GB",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet blandit urna. Duis posuere.",
+    "details": "Cras a hendrerit ex. Phasellus venenatis, nisl ut convallis vestibulum, mauris diam volutpat lectus, ut accumsan metus lacus non elit. Sed a metus euismod, luctus nisi in, pulvinar nunc. Quisque massa nulla, congue a condimentum semper, dictum eu lorem. Vivamus vel ipsum a erat auctor feugiat. Duis ullamcorper nulla eget sollicitudin tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non aliquam augue, sed faucibus urna. Sed tempus purus purus, id ullamcorper urna gravida fermentum. Quisque tincidunt augue vel nisl imperdiet, ac lacinia arcu tempor. Etiam sit amet commodo odio. Pellentesque tincidunt, tellus et varius bibendum, augue augue fringilla leo, quis consectetur est purus vel felis.",
+    "price": 999.99,
+    "image": "https://i.imgur.com/SyvTdYu.png"
+  },
+  {
+    "id": "p2",
+    "title": "Samsung S10",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet blandit urna. Duis posuere.",
+    "details": "Cras a hendrerit ex. Phasellus venenatis, nisl ut convallis vestibulum, mauris diam volutpat lectus, ut accumsan metus lacus non elit. Sed a metus euismod, luctus nisi in, pulvinar nunc. Quisque massa nulla, congue a condimentum semper, dictum eu lorem. Vivamus vel ipsum a erat auctor feugiat. Duis ullamcorper nulla eget sollicitudin tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non aliquam augue, sed faucibus urna. Sed tempus purus purus, id ullamcorper urna gravida fermentum. Quisque tincidunt augue vel nisl imperdiet, ac lacinia arcu tempor. Etiam sit amet commodo odio. Pellentesque tincidunt, tellus et varius bibendum, augue augue fringilla leo, quis consectetur est purus vel felis.",
+    "price": 800.0,
+    "image": "https://i.imgur.com/JGNzu69.png"
+  },
+  {
+    "id": "p3",
+    "title": "iPhone XR 64GB",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet blandit urna. Duis posuere.",
+    "details": "Cras a hendrerit ex. Phasellus venenatis, nisl ut convallis vestibulum, mauris diam volutpat lectus, ut accumsan metus lacus non elit. Sed a metus euismod, luctus nisi in, pulvinar nunc. Quisque massa nulla, congue a condimentum semper, dictum eu lorem. Vivamus vel ipsum a erat auctor feugiat. Duis ullamcorper nulla eget sollicitudin tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non aliquam augue, sed faucibus urna. Sed tempus purus purus, id ullamcorper urna gravida fermentum. Quisque tincidunt augue vel nisl imperdiet, ac lacinia arcu tempor. Etiam sit amet commodo odio. Pellentesque tincidunt, tellus et varius bibendum, augue augue fringilla leo, quis consectetur est purus vel felis.",
+    "price": 799.99,
+    "image": "https://i.imgur.com/Mg9rRbN.png"
+  },
+  {
+    "id": "p4",
+    "title": " iPhone Xs",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet blandit urna. Duis posuere.",
+    "details": "Cras a hendrerit ex. Phasellus venenatis, nisl ut convallis vestibulum, mauris diam volutpat lectus, ut accumsan metus lacus non elit. Sed a metus euismod, luctus nisi in, pulvinar nunc. Quisque massa nulla, congue a condimentum semper, dictum eu lorem. Vivamus vel ipsum a erat auctor feugiat. Duis ullamcorper nulla eget sollicitudin tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non aliquam augue, sed faucibus urna. Sed tempus purus purus, id ullamcorper urna gravida fermentum. Quisque tincidunt augue vel nisl imperdiet, ac lacinia arcu tempor. Etiam sit amet commodo odio. Pellentesque tincidunt, tellus et varius bibendum, augue augue fringilla leo, quis consectetur est purus vel felis.",
+    "price": 899.99,
+    "image": "https://i.imgur.com/SyvTdYu.png"
+  },
+  {
+    "id": "p5",
+    "title": " iPhone 11 Pro",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet blandit urna. Duis posuere.",
+    "details": "Cras a hendrerit ex. Phasellus venenatis, nisl ut convallis vestibulum, mauris diam volutpat lectus, ut accumsan metus lacus non elit. Sed a metus euismod, luctus nisi in, pulvinar nunc. Quisque massa nulla, congue a condimentum semper, dictum eu lorem. Vivamus vel ipsum a erat auctor feugiat. Duis ullamcorper nulla eget sollicitudin tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non aliquam augue, sed faucibus urna. Sed tempus purus purus, id ullamcorper urna gravida fermentum. Quisque tincidunt augue vel nisl imperdiet, ac lacinia arcu tempor. Etiam sit amet commodo odio. Pellentesque tincidunt, tellus et varius bibendum, augue augue fringilla leo, quis consectetur est purus vel felis.",
+    "price": 1200.0,
+    "image": "https://i.imgur.com/SyvTdYu.png"
+  },
+  {
+    "id": "p6",
+    "title": "Samsung  S20",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet blandit urna. Duis posuere.",
+    "details": "Cras a hendrerit ex. Phasellus venenatis, nisl ut convallis vestibulum, mauris diam volutpat lectus, ut accumsan metus lacus non elit. Sed a metus euismod, luctus nisi in, pulvinar nunc. Quisque massa nulla, congue a condimentum semper, dictum eu lorem. Vivamus vel ipsum a erat auctor feugiat. Duis ullamcorper nulla eget sollicitudin tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non aliquam augue, sed faucibus urna. Sed tempus purus purus, id ullamcorper urna gravida fermentum. Quisque tincidunt augue vel nisl imperdiet, ac lacinia arcu tempor. Etiam sit amet commodo odio. Pellentesque tincidunt, tellus et varius bibendum, augue augue fringilla leo, quis consectetur est purus vel felis.",
+    "price": 800.0,
+    "image": "https://i.imgur.com/d4NJM2b.png"
+  },
+  {
+    "id": "p7",
+    "title": "Samsung  S10",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet blandit urna. Duis posuere.",
+    "details": "Cras a hendrerit ex. Phasellus venenatis, nisl ut convallis vestibulum, mauris diam volutpat lectus, ut accumsan metus lacus non elit. Sed a metus euismod, luctus nisi in, pulvinar nunc. Quisque massa nulla, congue a condimentum semper, dictum eu lorem. Vivamus vel ipsum a erat auctor feugiat. Duis ullamcorper nulla eget sollicitudin tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non aliquam augue, sed faucibus urna. Sed tempus purus purus, id ullamcorper urna gravida fermentum. Quisque tincidunt augue vel nisl imperdiet, ac lacinia arcu tempor. Etiam sit amet commodo odio. Pellentesque tincidunt, tellus et varius bibendum, augue augue fringilla leo, quis consectetur est purus vel felis.",
+    "price": 999.99,
+    "image": "https://i.imgur.com/kfQk8wr.png"
+  },
+  {
+    "id": "p8",
+    "title": "Huawei P30 Pro",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet blandit urna. Duis posuere.",
+    "details": "Cras a hendrerit ex. Phasellus venenatis, nisl ut convallis vestibulum, mauris diam volutpat lectus, ut accumsan metus lacus non elit. Sed a metus euismod, luctus nisi in, pulvinar nunc. Quisque massa nulla, congue a condimentum semper, dictum eu lorem. Vivamus vel ipsum a erat auctor feugiat. Duis ullamcorper nulla eget sollicitudin tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non aliquam augue, sed faucibus urna. Sed tempus purus purus, id ullamcorper urna gravida fermentum. Quisque tincidunt augue vel nisl imperdiet, ac lacinia arcu tempor. Etiam sit amet commodo odio. Pellentesque tincidunt, tellus et varius bibendum, augue augue fringilla leo, quis consectetur est purus vel felis.",
+    "price": 600.0,
+    "image": "https://i.imgur.com/oAYVpOK.png"
+  },
+  {
+    "id": "p9",
+    "title": "Nokia 9 Pure View",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet blandit urna. Duis posuere.",
+    "details": "Cras a hendrerit ex. Phasellus venenatis, nisl ut convallis vestibulum, mauris diam volutpat lectus, ut accumsan metus lacus non elit. Sed a metus euismod, luctus nisi in, pulvinar nunc. Quisque massa nulla, congue a condimentum semper, dictum eu lorem. Vivamus vel ipsum a erat auctor feugiat. Duis ullamcorper nulla eget sollicitudin tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non aliquam augue, sed faucibus urna. Sed tempus purus purus, id ullamcorper urna gravida fermentum. Quisque tincidunt augue vel nisl imperdiet, ac lacinia arcu tempor. Etiam sit amet commodo odio. Pellentesque tincidunt, tellus et varius bibendum, augue augue fringilla leo, quis consectetur est purus vel felis.",
+    "price": 400.0,
+    "image": "https://i.imgur.com/ZCuIpiT.jpg"
+  }
+]
