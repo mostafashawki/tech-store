@@ -13,6 +13,7 @@ export default function Aside() {
           </NavLink>
         </strong>
       </p>
+      <input type="text" placeholder="Search products" />
     </aside>
   );
 }
