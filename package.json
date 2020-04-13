@@ -1,5 +1,5 @@
 {
-  "name": "tech-store",
+  "name": "ecom-fe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,6 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://mostafashawki.github.io/tech-store",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
