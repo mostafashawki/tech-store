@@ -26,7 +26,7 @@ const CartPage = () => {
                   </div>
                   <div>
                     <a
-                      href="#"
+                      href="javascript:void(0)"
                       onClick={productsContext.removeProductFromCart.bind(
                         this,
                         cartItem

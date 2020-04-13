@@ -26,7 +26,7 @@ const ProductsPage = () => {
             <p>
               <a
                 className="button"
-                href="#"
+                href="javascript:void(0)"
                 onClick={productContext.addProductToCart.bind(this, {
                   ...product,
                   isSavedForLater: true,
@@ -37,7 +37,7 @@ const ProductsPage = () => {
               &nbsp;
               <a
                 className="cartButton"
-                href="#"
+                href="javascript:void(0)"
                 onClick={productContext.addProductToCart.bind(this, {
                   ...product,
                   isSavedForLater: false,
