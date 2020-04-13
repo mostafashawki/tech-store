@@ -12,6 +12,7 @@ const ProductsPage = () => {
     <React.Fragment>
       <Header />
       <Aside />
+      <input type="text" placeholder="Search products" />
       <main>
         {productContext.products.map((product) => (
           <div className="card" key={product.id}>

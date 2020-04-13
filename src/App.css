@@ -90,3 +90,7 @@ select {
 a {
   color: black;
 }
+
+p {
+  margin: 5px 0px;
+}
