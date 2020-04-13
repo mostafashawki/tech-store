@@ -27,6 +27,11 @@ const nav = (props) => (
           {props.wishlistCounter}
         </NavLink>
       </li>
+      <li>
+        <NavLink to="/user">
+          <i className="fas fa-user fa-2x" title="Profile"></i>
+        </NavLink>
+      </li>
     </ul>
   </nav>
 );
